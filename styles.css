@@ -42,3 +42,10 @@ h1:hover .nombre {
 h1:hover .apellido {
 	transform: translateX(50px);
 }
+
+h1:hover .n1,
+h1:hover .a1 {
+	color: #fff;
+	opacity: 1;
+	text-shadow: 5px -5px 5px #0000ff, -10px -10px 10px #ff0000, 15px 15px 15px #00ff00;
+}
